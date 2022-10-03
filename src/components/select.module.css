@@ -77,9 +77,9 @@
 }
 
 .option.highligheted {
-  background-color: rgb(18, 163, 163);
+  background-color: rgb(15, 157, 157);
   color: white;
 }
 .option.selected {
-  background-color: rgb(38, 252, 252);
+  background-color: rgb(21, 228, 228);
 }
